@@ -3,7 +3,12 @@
 ## 📌 Introduction
 Governments invest heavily in subsidy programs (fuel, food, and cash transfers) to reduce poverty and cushion vulnerable households. Despite the intent, issues such as **leakage, fraud, and poor targeting** hinder effectiveness.  
 
-This project evaluates subsidy disbursement in **Nigeria**, measuring **coverage, targeting accuracy, leakage, and fraud detection**, while offering **data-driven recommendations** for policy and implementation improvement.
+This project evaluates subsidy disbursement in **Nigeria**, measuring **coverage, targeting accuracy, leakage, and fraud detection**, while offering **data-driven recommendations** for policy and implementation improvement. - 
+
+---
+
+## 🔗 Python Code 
+- [Code Here](https://github.com/Mayreeobi/Subsidy-Tracker-Evaluating-the-Effectiveness-of-Government-Subsidy-Programs-in-Nigeria/blob/main/Subsidy%20Disbursement%20in%20Nigeria.ipynb)
 
 ---
 
@@ -78,7 +83,8 @@ This project evaluates subsidy disbursement in **Nigeria**, measuring **coverage
 
 ## 🛠️ Tools & Tech
 - **Python (Pandas, NumPy, Matplotlib, Seaborn)**  
-- **Jupyter Notebook** – for analysis and visualization  
+- **Jupyter Notebook** – for analysis and visualization
+
 
 ---
 
